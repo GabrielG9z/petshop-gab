@@ -3,6 +3,13 @@ const Contato = () => {
   return (
     <section>
       <h2 className={estilos.titulo_secao}>Fale Conosco</h2>
+      <div div="contato">
+        <p>
+          <i>
+            Em breve teremos um formulário com bibilioteca de componentes...
+          </i>
+        </p>
+      </div>
     </section>
   );
 };
