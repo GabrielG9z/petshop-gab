@@ -1,9 +1,9 @@
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Cabecalho from "./components/Cabecalho/Cabecalho";
-import Home from "./pages/Home/Home";
+import Home from "./pages/home/Home";
 import Produtos from "./pages/produtos/Produtos";
 import Sobre from "./pages/sobre/Sobre";
-import Contato from "./pages/Contato/Contato";
+import Contato from "./pages/contatos/Contato";
 
 const App = () => {
   return (
